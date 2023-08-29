@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">1stproject</string>
-    <string name="btn_test">askar test</string>
+    <string name="app_name">Cancel</string>
+    <string name="btn_test">Login</string>
 </resources>
